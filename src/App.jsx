@@ -536,7 +536,7 @@ function About() {
           </div>
           <div style={{ flex: "0 0 auto", display: "flex", justifyContent: "center" }}>
             <div className="card" style={{ maxWidth: 270, width: "100%", padding: 18 }}>
-              <img src="/assets/techyarif-logo.jpg" alt="TechyArif" style={{ width: "100%", borderRadius: 12, marginBottom: 12, objectFit: "cover", aspectRatio: "1/1", background: "var(--gl)" }} />
+              <img src="/assets/techyarif-logo.png" alt="TechyArif" style={{ width: "100%", borderRadius: 12, marginBottom: 12, objectFit: "cover", aspectRatio: "1/1", background: "var(--gl)" }} />
               <div className="fg" style={{ fontSize: "1.05rem", fontWeight: 700, marginBottom: 4 }}>TechyArif</div>
               <p style={{ fontSize: "0.83rem", color: "var(--ts)", lineHeight: 1.65 }}>Automation, AI experiments, content creation, aur ideas ko real products mein badalna.</p>
             </div>
